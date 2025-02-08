@@ -59,7 +59,7 @@ CONFIG = {
             "GGUF",
             "LoRA",
             "Finetune",
-            "Finetuning""
+            "Finetuning",
             "Pq",
             "parquet",
             "fullstack",
