@@ -1,8 +1,4 @@
 
-
-```python
-
-
 # ..\..\job\Utils\config_manager.py
 # config_manager.py
 from typing import List, Dict
@@ -222,4 +218,3 @@ SEARCH_TERMS: List[str] = [
 ]
 
 
-```
